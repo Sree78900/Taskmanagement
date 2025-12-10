@@ -119,5 +119,9 @@ cd client
 npm install
 npm run dev
 ```
+### Screenshots
+- <img width="500" height="500" alt="Screenshot 2025-12-10 194516" src="https://github.com/user-attachments/assets/71e1da7d-ae00-4068-8595-163c5cbe3470" />
+- <img width="500" height="500" alt="Screenshot 2025-12-10 194610" src="https://github.com/user-attachments/assets/ae36e493-d476-4a73-ab7a-8622d58c69e9" />
+- <img width="500" height="500" alt="Screenshot 2025-12-10 195153" src="https://github.com/user-attachments/assets/bec05e74-4a51-41ae-9929-b0d137c6cbb2" />
 
 
